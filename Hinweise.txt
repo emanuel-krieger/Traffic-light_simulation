@@ -1,0 +1,15 @@
+Dieses kleine Projekt war eine Aufgabe im Rahmen meiner Ausbildung zum Fachinformatiker für Anwendungsentwicklung.
+
+Der Code kann hier eingesehen werden.
+
+Falls eine Simulation dieses Codes und der Komponenten durchführen soll, kann beispielsweise ~tinkercad com~ verwendet werden.
+
+Alternativ können diverse Arduino - Sets online erworben werden.
+
+Hier wurde mehr mit Code als mit Sensoren experimentiert.
+
+Der interessantesete Aspekt dieses Projektes scheint die Tatsache zu sein, dass die Schaltung 'zuhört', während die Ampel gerade nicht schaltet.
+
+Eine Schwachstelle des Codes ist der Umstand, dass die Taster während dem Schaltvorgang NICHT funktionieren.
+
+Viel Spaß beim Testen!
